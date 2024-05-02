@@ -1,4 +1,4 @@
-## Code for Impact of Sharing Imprecise Information on Fixed-Bin Selective Assembly by Clottey and Benton 2024##
+## Code for Impact of Sharing Imprecise Information on Fixed-Bin Selective Assembly by Clottey and Benton 2024
 The code in this GITHUB repository is example R code for the analysis performed when precise information about the mean of the Piston diameters is communicated by the supplier 
 and either a Reactive or Proactive approach to FBSA is utilized.
 The results of running the code is raw data for surplus/shortage of FBSA parts when the reactive and proactive strategies are utilized.
