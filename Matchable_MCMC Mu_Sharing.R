@@ -6,6 +6,7 @@
 
 library(invgamma)
 library(truncnorm)
+library(matrixStats)
 library(poisbinom)
 
 # Given parameters
